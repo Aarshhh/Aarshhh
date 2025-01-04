@@ -29,24 +29,7 @@
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 </p>
-
-
-<!--<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarshhh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
-</p> -->
-
-<!-- Most Used Languages -->
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshhh&langs_count=10&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aarshhh&color=brightgreen" alt="Profile Views"/>
-</p>
-
-<!--![snake gif](https://github.com/Aarshhh/MyProfile/blob/output/github-contribution-grid-snake.svg) -->
