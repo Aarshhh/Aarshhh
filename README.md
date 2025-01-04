@@ -33,3 +33,20 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 </p>
+
+<!--<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarshhh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
+</p> -->
+
+<!-- Most Used Languages -->
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshhh&langs_count=10&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aarshhh&color=brightgreen" alt="Profile Views"/>
+</p>
+
+<!--![snake gif](https://github.com/Aarshhh/MyProfile/blob/output/github-contribution-grid-snake.svg) -->
