@@ -48,4 +48,4 @@
   <img src="https://komarev.com/ghpvc/?username=Aarshhh&color=brightgreen" alt="Profile Views"/>
 </p>
 
-![snake gif](https://github.com/Aarshhh/Aarshhh/blob/output/github-snake-dark.svg)
+[snake gif](https://github.com/Aarshhh/Aarshhh/blob/output/github-snake-dark.svg)
